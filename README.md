@@ -13,6 +13,7 @@
 # Author
 
 Created by Muhammad Hussain
-\nLinkedIn: www.linkedin.com/in/where-is-hussain
+
+LinkedIn: www.linkedin.com/in/where-is-hussain
 
 Feel free to fork, improve, and share!
