@@ -9,7 +9,7 @@
 - Clean and animated user-friendly interface.
 - Blacklisted Passwords: ["password", "123456", "123456789", "12345678", "12345", "1234567", "qwerty", "abc123", "password1", "111111", "123123", "admin", "welcome", "1234", "qwertyuiop"]
 - You can try by replacing this values.
-- 
+
 # Author
 
 Created by Muhammad Hussain
